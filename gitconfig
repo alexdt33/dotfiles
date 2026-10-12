@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = a.doret@yahoo.com
+	name = alexandre doret
